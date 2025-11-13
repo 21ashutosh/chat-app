@@ -64,12 +64,6 @@ Copy code
 
 ---
 
-## 📝 License
-
-This project is under the **MIT License**.  
-You can check the [LICENSE](./LICENSE) file for more details.
-
----
 
 <p align="center">
   Made with ❤️ using Flutter & Firebase
