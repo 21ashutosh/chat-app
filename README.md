@@ -9,11 +9,6 @@ This is a **Chat Application** built using **Flutter** and **Firebase**.
 It allows users to **sign in with Google**, **send and receive messages**, and **share photos** in real time.  
 Firebase is used as the backend for authentication, data storage, and real-time updates.
 
----
-
-## 📱 Preview
-
-https://user-images.githubusercontent.com/59374587/221328051-5fc89706-b6b7-4312-b67a-2c6468020e57.mp4
 
 ---
 
