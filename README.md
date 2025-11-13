@@ -1,6 +1,3 @@
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/59374587/94870148-34b87a80-041d-11eb-85d2-e1e6aac7af28.png" width="200px" alt="Chat App Logo"/>
-</p>
 
 <h1 align="center">💬 Chat App</h1>
 
