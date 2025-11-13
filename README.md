@@ -28,7 +28,7 @@ It was a fun and educational project that improved my understanding of **mobile 
 ## ⚙️ How to Use
 
 Clone this repository
-$ git clone https://github.com/your-username/chat-app
+$ git clone https://github.com/21ashutosh/chat-app
 
 Go to the project folder
 $ cd chat-app
